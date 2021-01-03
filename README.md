@@ -9,11 +9,15 @@
 
 <pre>
 <b>></b> man nameartem
-  <b> Main role:           </b> Team Leader
-  <b> Practice area:       </b> Data Science
-  <b>Main language:        </b> Python
-  <b>Additional languages: </b> Scala, Java, C++
-  <b>Database:             </b> Oracle, Postgres, Teradata, Hadoop
+  <b>Main role:           </b> Team Leader
+  <b>Practice area:       </b> Data Science
+  <b>Main language:       </b> Python
+  <b>Additional languages:</b> Scala, Java, C++
+  <b>Databases:           </b> Oracle, Postgres, Teradata, Hadoop
+  <b>ML libs:             </b> Scikit-learn, PyTorch, TensorFlow, CatBoost, XgBoos, LightGBM
+  <b>Visualization libs:  </b> Plotly, Seaborn, Bokeh, Altair, Folium(Geo)
+  <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
+  <b>Other tech:          </b> Docker
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 
 </pre>
