@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="center" src="https://github.com/NameArtem/nameartem/blob/main/nameartem.jpg"/>
+
+
 
 <h4 align="center"><samp> Welcome to my Github! I like to write in Python 🐍 and I'm exploring Machine Learning ✨ </samp></h4>
 
@@ -18,9 +20,12 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://nameartem.github.io/">
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/seleznev-artem/">
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.facebook.com/seleznev.artem.info">
+<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
 
 <!--START_SECTION:waka-->
@@ -36,7 +41,8 @@
 <a align="left" href="https://github.com/NameArtem/deployml_course" title="Deploy ML">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=deployml_course&theme=gotham"></a>
 
-<p align="left" > Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»
+<p align="left" > <samp> Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»
+</samp>
 </p>
 </p>
 <br>
