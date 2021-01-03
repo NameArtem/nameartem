@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4 align="center"><samp> Welcome to my Github! I like to write in <s>Python</s> 🐍 Code and I'm exploring Machine Learning ✨ </samp></h4>
+<h4 align="center"><samp> Welcome to my Github! I like to write in Python 🐍 and I'm exploring Machine Learning ✨ </samp></h4>
 
 
 ### Tech Stack
