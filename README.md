@@ -3,7 +3,7 @@
 ### Tech Stack
 
 <pre>
-<b>></b> man ksnow-be
+<b>></b> man nameartem
   <b>Main language:        </b> Python
   <b>Additional languages: </b> Scala, Java
   <b>Database:             </b> Oracle, Postgres, Teradata
