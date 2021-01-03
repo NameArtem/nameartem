@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/NameArtem/nameartem/blob/main/nameartem.jpg"/>
 
 
-
+<h2 align="center"><samp> Hello :wave: </samp></h2>
 <h4 align="center"><samp> Welcome to my Github! I like to write in Python 🐍 and I'm exploring Machine Learning ✨ </samp></h4>
 
 
@@ -41,9 +41,8 @@
 <a align="left" href="https://github.com/NameArtem/deployml_course" title="Deploy ML">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=deployml_course&theme=gotham"></a>
 
-<p align="left" > <samp> Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»
-</samp>
-</p>
+<h4 align="left" > <samp> Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»</samp>
+</h4>
 </p>
 <br>
 <br>
