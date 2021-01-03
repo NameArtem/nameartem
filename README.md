@@ -7,9 +7,11 @@
 
 <pre>
 <b>></b> man nameartem
+  <b> Main role:           </b> Team Leader
+  <b> Practice area:       </b> Data Science
   <b>Main language:        </b> Python
-  <b>Additional languages: </b> Scala, Java
-  <b>Database:             </b> Oracle, Postgres, Teradata
+  <b>Additional languages: </b> Scala, Java, C++
+  <b>Database:             </b> Oracle, Postgres, Teradata, Hadoop
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 
 </pre>
@@ -26,11 +28,16 @@
 
 </pre>
 
-<h2 align="center">Repositories</h2>
+<h4 align="center"><samp> Repositories of my courses (where I am the author) and open source projects </samp></h4>
+
+<h3 align="center">Repositories</h2>
 
 <p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/deployml_course" title="Deploy ML">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=deployml_course&theme=gotham"></a>
+
+<p align="left" > Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»
+</p>
 </p>
 <br>
 <br>
