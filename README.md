@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/NameArtem/deployml_course" title="Deploy ML"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=deployml_course&theme=gotham"></a>
+</p>
+<br><br>
+
+
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
