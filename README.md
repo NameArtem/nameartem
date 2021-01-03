@@ -1,9 +1,11 @@
 <img align="center" src="https://github.com/NameArtem/nameartem/blob/main/nameartem.jpg"/>
 
+</pre>
 
 <h2 align="center"><samp> Hello :wave: </samp></h2>
 <h4 align="center"><samp> Welcome to my Github! I like to write in Python 🐍 and I'm exploring Machine Learning ✨ </samp></h4>
 
+</pre>
 
 ### Tech Stack
 
@@ -17,7 +19,7 @@
   <b>ML libs:             </b> Scikit-learn, PyTorch, TensorFlow, CatBoost, XgBoos, LightGBM
   <b>Visualization libs:  </b> Plotly, Seaborn, Bokeh, Altair, Folium(Geo)
   <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
-  <b>Other tech:          </b> Docker
+  <b>Other tech:          </b> Docker, Git
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 
 </pre>
@@ -31,9 +33,6 @@
 <a href="https://www.facebook.com/seleznev.artem.info">
 <img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </pre>
 
