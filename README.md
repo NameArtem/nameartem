@@ -28,9 +28,9 @@
 
 </pre>
 
-<h4 align="center"><samp> Repositories of my courses (where I am the author) and open source projects </samp></h4>
-
 <h3 align="center">Repositories</h2>
+
+<h4 align="center"><samp> Repositories of my courses (where I am the author) and open source projects </samp></h4>
 
 <p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/deployml_course" title="Deploy ML">
