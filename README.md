@@ -47,6 +47,17 @@
 <h4 align="left" > <samp> Oткрытый курс по «Промышленная эксплуатация моделей машинного обучения»</samp>
 </h4>
 </p>
+
+<p width="100%" align="center">
+<a align="left" href="https://github.com/NameArtem/recom_wa" title="DS papers">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=recom_wa&theme=gotham"></a>
+
+<h4 align="left" > <samp> Здесь представлены интересные статьи и методы, которые я попробовал или часто использую</samp>
+</h4>
+</p>
+
+
+
 <br>
 <br>
 
