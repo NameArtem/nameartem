@@ -53,6 +53,22 @@
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=recom_way&theme=gotham"></a>
 <h4 align="left" > <samp> Здесь представлены интересные статьи и методы, которые я попробовал или часто использую</samp>
 </h4>
+<br>
+<br>
+<br>
+
+<a align="left" href="https://github.com/NameArtem/apache_cluster" title="How create your Apache Cluster">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=apache_cluster&theme=gotham"></a>
+<h4 align="left" > <samp> Постоянно обновляемый репозиторий по настройке класстера для Hadoop/Spark (и прочих Apache инфраструктурных инструментов)</samp>
+</h4>
+<br>
+<br>
+<br>
+
+<a align="left" href="https://github.com/NameArtem/hse_spark_course" title="HSE course - Data analysis on Spark">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hse_spark_course&theme=gotham"></a>
+<h4 align="left" > <samp> Курс по анализу данных на Apache Spark</samp>
+</h4>
 
 </p>
 
