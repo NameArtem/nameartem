@@ -65,6 +65,14 @@
 <br>
 <br>
 
+<a align="left" href="https://github.com/NameArtem/hadoop-spark-standalone-docker" title="Hadoop and Spark on Docker">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hadoop-spark-standalone-docker&theme=gotham"></a>
+<h4 align="left" > <samp> Репозиторий с Hadoop/Spark на Docker для инфраструктуры курсов по Анализу больших данных на Spark</samp>
+</h4>
+<br>
+<br>
+<br>
+
 <a align="left" href="https://github.com/NameArtem/hse_spark_course" title="HSE course - Data analysis on Spark">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hse_spark_course&theme=gotham"></a>
 <h4 align="left" > <samp> Курс по анализу данных на Apache Spark</samp>
