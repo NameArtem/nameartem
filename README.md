@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/NameArtem/nameartem/blob/main/nameartem.jpg"/>
+<img align="center" src="https://github.com/NameArtem/nameartem/blob/main/head.jpg"/>
 
 </pre>
 
