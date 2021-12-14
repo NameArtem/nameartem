@@ -77,6 +77,15 @@
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hse_spark_course&theme=gotham"></a>
 <h4 align="left" > <samp> Курс по анализу данных на Apache Spark</samp>
 </h4>
+<br>
+<br>
+<br>
+
+<a align="left" href="https://github.com/NameArtem/friday-tutor" title="Club Friday Tutor (MGNT AI)">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=friday-tutor&theme=gotham"></a>
+<h4 align="left" > <samp> Пятницы-образовательницы от Magnit AI</samp>
+</h4>
+
 
 </p>
 
