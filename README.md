@@ -49,13 +49,6 @@
 <br>
 <br>
 
-<a align="left" href="https://github.com/NameArtem/recom_way" title="DS papers">
-<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=recom_way&theme=gotham"></a>
-<h4 align="left" > <samp> Здесь представлены интересные статьи и методы, которые я попробовал или часто использую</samp>
-</h4>
-<br>
-<br>
-<br>
 
 <a align="left" href="https://github.com/NameArtem/apache_cluster" title="How create your Apache Cluster">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=apache_cluster&theme=gotham"></a>
