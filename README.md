@@ -58,8 +58,10 @@
 <br>
 <br>
 <br>
+</p>
 
 
+<p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/apache_cluster" title="How create your Apache Cluster">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=apache_cluster&theme=gotham"></a>
 <h4 align="left" > <samp> Постоянно обновляемый репозиторий по настройке класстера для Hadoop/Spark (и прочих Apache инфраструктурных инструментов)</samp>
@@ -67,7 +69,10 @@
 <br>
 <br>
 <br>
+</p>
 
+
+<p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/hadoop-spark-standalone-docker" title="Hadoop and Spark on Docker">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hadoop-spark-standalone-docker&theme=gotham"></a>
 <h4 align="left" > <samp> Репозиторий с Hadoop/Spark на Docker для инфраструктуры курсов по Анализу больших данных на Spark</samp>
@@ -75,7 +80,9 @@
 <br>
 <br>
 <br>
+</p>
 
+<p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/hse_spark_course" title="HSE course - Data analysis on Spark">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=hse_spark_course&theme=gotham"></a>
 <h4 align="left" > <samp> Курс по анализу данных на Apache Spark</samp>
@@ -83,12 +90,13 @@
 <br>
 <br>
 <br>
+</p>
 
+<p width="100%" align="center">
 <a align="left" href="https://github.com/NameArtem/friday-tutor" title="Club Friday Tutor (MGNT AI)">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nameartem&repo=friday-tutor&theme=gotham"></a>
 <h4 align="left" > <samp> Пятницы-образовательницы от Magnit AI</samp>
 </h4>
-
 
 </p>
 
