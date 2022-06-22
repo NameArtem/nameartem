@@ -13,10 +13,10 @@
 <b>></b> man nameartem
   <b>Main role:           </b> Team Leader
   <b>Practice area:       </b> Data Science
-  <b>Main language:       </b> Python
-  <b>Additional languages:</b> Scala, Java, C++
-  <b>Databases:           </b> Oracle, Postgres, Teradata, Hadoop
-  <b>ML libs:             </b> Scikit-learn, PyTorch, TensorFlow, CatBoost, XgBoos, LightGBM
+  <b>Main language:       </b> Python, C++
+  <b>Additional languages:</b> Scala, Java
+  <b>Databases:           </b> Oracle, DB2, Postgres, Teradata, Hadoop
+  <b>ML libs:             </b> Scikit-learn, PyTorch, TensorFlow, CatBoost, XgBoos, LightGBM, PySpark
   <b>Visualization libs:  </b> Plotly, Seaborn, Bokeh, Altair, Folium(Geo)
   <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
   <b>Other tech:          </b> Docker, Git
