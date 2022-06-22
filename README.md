@@ -21,7 +21,7 @@
   <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
   <b>Other tech:          </b> Docker, Git
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student"/>
 
 </pre>
 
