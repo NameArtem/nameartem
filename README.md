@@ -20,8 +20,6 @@
   <b>Visualization libs:  </b> Plotly, Seaborn, Bokeh, Altair, Folium(Geo)
   <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
   <b>Other tech:          </b> Docker, Git
-  
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=000000&background=E4F2F600&lines=Updatd+getting+new+skills..."/>
 
 </pre>
 
