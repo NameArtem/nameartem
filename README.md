@@ -20,7 +20,7 @@
   <b>Visualization libs:  </b> Plotly, Seaborn, Bokeh, Altair, Folium(Geo)
   <b>Favorite libs:       </b> Kedro, FastApi, Flask, Airflow/Bonobo
   <b>Other tech:          </b> Docker, Git
- <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 </pre>
 
