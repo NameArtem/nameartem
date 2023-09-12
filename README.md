@@ -11,7 +11,7 @@
 
 <pre>
 <b></b> man nameartem
-  <b>Main role:           </b> Team Leader
+  <b>Main role:           </b> CDO / CDA
   <b>Practice area:       </b> Data Science
   <b>Main language:       </b> Python, C++
   <b>Additional languages:</b> Scala, Java
